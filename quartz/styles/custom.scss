@@ -38,3 +38,19 @@
     width: 100% !important;
   }
 }
+
+// Quitar restricciones de ancho global
+.page {
+  max-width: 95vw !important; // Usa casi todo el ancho de la pantalla del navegador
+}
+
+// Expansión completa de la columna central
+.center {
+  max-width: 100% !important;
+  width: 100% !important;
+}
+
+// Permitir que el texto y las imágenes usen todo el ancho liberado
+article {
+  max-width: 100% !important;
+}
