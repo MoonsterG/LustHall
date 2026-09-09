@@ -2,23 +2,22 @@
 
 // put your custom CSS here!
 
-// Título e ícono de Explorer
+// Estilos para el panel Explorer (Menú izquierdo)
 .explorer {
-  button#explorer-title {
-    font-size: 1.3rem !important;
+  #explorer-title {
+    font-size: 1.25rem !important;
     font-weight: 700 !important;
     color: var(--secondary) !important;
-    margin-bottom: 0.5rem;
   }
 
-  // Nombres de las carpetas/categorías
-  .folder-button {
+  // Título de las carpetas / Categorías
+  .folder-container .folder-button {
     font-size: 1.1rem !important;
     font-weight: 600 !important;
-    color: var(--dark) !important;
+    color: #e5c07b !important; // Dorado para categorías
   }
 
-  // Elementos individuales dentro de carpetas
+  // Desplazamiento e indización de lista
   .folder-outer ul {
     border-left: 2px solid var(--lightgray);
     padding-left: 0.8rem !important;
