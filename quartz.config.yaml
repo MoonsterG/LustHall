@@ -40,6 +40,17 @@ configuration:
         tertiary: "#7c5cbf"
         highlight: rgba(124, 92, 191, 0.15)
         textHighlight: "#b3aa0288"
+
+layout:
+  byPageType:
+    content:
+      template: full-width
+  groups:
+    toolbar:
+      priority: 35
+      direction: row
+      gap: 0.5rem
+
 plugins:
   - source: "@quartz-community/created-modified-date"
     enabled: true
@@ -81,7 +92,7 @@ plugins:
     enabled: true
     order: 50
     layout:
-      position: right
+      position: afterBody
       priority: 30
   - source: "@quartz-community/crawl-links"
     enabled: true
@@ -165,7 +176,7 @@ plugins:
   - source: "@quartz-community/graph"
     enabled: false
     layout:
-      position: right
+      position: afterBody
       priority: 10
   - source: "@quartz-community/search"
     enabled: true
@@ -178,7 +189,7 @@ plugins:
   - source: "@quartz-community/backlinks"
     enabled: true
     layout:
-      position: right
+      position: afterBody
       priority: 50
   - source: "@quartz-community/article-title"
     enabled: true
@@ -273,28 +284,3 @@ plugins:
       darkMode: auto
       exportPadding: 20
     order: 50
-layout:
-  groups:
-    toolbar:
-      priority: 35
-      direction: row
-      gap: 0.5rem
-  byPageType:
-    "404":
-      positions:
-        beforeBody: []
-        left: []
-        right: []
-    content: {}
-    folder:
-      exclude:
-        - reader-mode
-      positions:
-        right: []
-    tag:
-      exclude:
-        - reader-mode
-      positions:
-        right: []
-    canvas: {}
-    bases: {}

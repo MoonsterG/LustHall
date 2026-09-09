@@ -30,33 +30,17 @@
   }
 }
 
-// Redefinir el ancho de la grilla de escritorio de Quartz
-:root {
-  --desktopGridWidth: 100% !important;
-}
-
-// Desbloquear la página y eliminar márgenes automáticos centrado
-.page {
-  max-width: 98vw !important;
-  width: 98vw !important;
-  margin-left: 1rem !important;
-  margin-right: 1rem !important;
-
-  // Ajustar la columna central dentro de la grilla de Quartz
-  & > .center {
+// Expandir el contenedor central en la plantilla full-width
+.page[data-frame="full-width"] {
+  #quartz-body {
+    grid-template-columns: 280px minmax(0, 1fr) !important;
+  }
+  
+  .center {
     max-width: 100% !important;
-    width: 100% !important;
-    padding-right: 2rem !important;
   }
 }
 
-// Extender el artículo y todos sus elementos (párrafos, imágenes, etc.)
 article {
   max-width: 100% !important;
-  width: 100% !important;
-
-  p, blockquote, img, div {
-    max-width: 100% !important;
-    width: 100% !important;
-  }
 }
