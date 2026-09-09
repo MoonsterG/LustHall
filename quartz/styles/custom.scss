@@ -29,3 +29,11 @@
     margin-left: 0.4rem !important;
   }
 }
+
+.page {
+  grid-template-columns:
+    [full-start] minmax(0, 1fr)
+    [page-start] min(750px, 100%)
+    [page-end] minmax(0, 1fr)
+    [full-end];
+}
