@@ -2,7 +2,14 @@
 
 // put your custom CSS here!
 
-// Estilos para el panel Explorer (Menú izquierdo)
+// Forzar texto blanco brillante solo en modo oscuro
+[saved-theme="dark"] {
+  body, article, p, li, span {
+    color: #ffffff !important;
+  }
+}
+
+// Estilos para el panel Explorer
 .explorer {
   #explorer-title {
     font-size: 1.25rem !important;
@@ -10,14 +17,12 @@
     color: var(--secondary) !important;
   }
 
-  // Título de las carpetas / Categorías
   .folder-container .folder-button {
     font-size: 1.1rem !important;
     font-weight: 600 !important;
-    color: #e5c07b !important; // Dorado para categorías
+    color: var(--dark) !important;
   }
 
-  // Desplazamiento e indización de lista
   .folder-outer ul {
     border-left: 2px solid var(--lightgray);
     padding-left: 0.8rem !important;
