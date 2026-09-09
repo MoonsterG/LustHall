@@ -30,25 +30,26 @@
   }
 }
 
-// Redefinir variables globales del layout de Quartz
-:root {
-  --pageWidth: 100% !important;
+// Desbloquear el ancho de la grilla de Quartz
+div.page {
+  max-width: 95vw !important;
+  width: 95vw !important;
+  display: flex !important;
+  justify-content: flex-start !important;
 }
 
-// Modificar el grid principal
-.page > .center {
-  max-width: none !important;
+// Expansión del bloque central y eliminación del margen derecho
+div.center, 
+div.page > div.center {
+  max-width: 100% !important;
   width: 100% !important;
-  flex-grow: 1 !important;
+  flex: 1 1 auto !important;
 }
 
-// Eliminar el espacio reservado para la columna derecha derecha si no existe contenido
-.page > .right {
-  display: none !important;
-}
-
-// Permitir que el texto ocupe todo el espacio desbloqueado
-article {
+// Permitir que el artículo y el texto se expandan sin tope
+article, 
+.popover-hint, 
+article > * {
   max-width: 100% !important;
   width: 100% !important;
 }
