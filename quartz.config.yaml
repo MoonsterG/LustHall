@@ -42,9 +42,6 @@ configuration:
         textHighlight: "#b3aa0288"
 
 layout:
-  byPageType:
-    content:
-      template: full-width
   groups:
     toolbar:
       priority: 35

@@ -1,6 +1,6 @@
 @use "./variables.scss" as *;
 
-// 1. Redefinir variables globales de ancho de Quartz
+// Redefinir variables globales de ancho
 :root {
   --page-width: 100% !important;
   --article-width: 100% !important;
@@ -34,26 +34,25 @@
   }
 }
 
-// 2. Anulación del Layout de la Página
+// Maquetación del layout: Explorer a la izquierda + Contenido extendido a la derecha
 .page {
   max-width: 100% !important;
   width: 100% !important;
-  padding: 0 2rem !important;
 
   #quartz-body {
-    grid-template-columns: 280px minmax(0, 1fr) !important;
-    grid-template-areas: "grid-sidebar grid-content" !important;
+    display: grid !important;
+    grid-template-columns: 320px minmax(0, 1fr) !important;
+    gap: 2rem !important;
     max-width: 100% !important;
     width: 100% !important;
     margin: 0 !important;
+    padding: 0 2rem !important;
   }
 
   .center,
   article,
-  .popover-hint,
   .page-header {
     max-width: 100% !important;
     width: 100% !important;
-    padding-right: 2rem !important;
   }
 }
