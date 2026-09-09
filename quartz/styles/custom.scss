@@ -1,3 +1,27 @@
 @use "./variables.scss" as *;
 
 // put your custom CSS here!
+
+// Título e ícono de Explorer
+.explorer {
+  button#explorer-title {
+    font-size: 1.3rem !important;
+    font-weight: 700 !important;
+    color: var(--secondary) !important;
+    margin-bottom: 0.5rem;
+  }
+
+  // Nombres de las carpetas/categorías
+  .folder-button {
+    font-size: 1.1rem !important;
+    font-weight: 600 !important;
+    color: var(--dark) !important;
+  }
+
+  // Elementos individuales dentro de carpetas
+  .folder-outer ul {
+    border-left: 2px solid var(--lightgray);
+    padding-left: 0.8rem !important;
+    margin-left: 0.4rem !important;
+  }
+}
