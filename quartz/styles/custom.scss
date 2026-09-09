@@ -30,15 +30,11 @@
   }
 }
 
-// Expandir el ancho del contenido central y contenedores principales
-:root {
-  --pageWidth: 1000px; // Por defecto es 750px, 1000px o 1100px expande el margen derecho bastante bien
-}
-
+// Ajustar solo la columna central de contenido
 .page {
-  max-width: 1200px !important; // Expande el límite global de la página
-}
-
-article {
-  max-width: 100% !important; // Permite al texto e imágenes ocupar todo el ancho disponible del contenedor
+  // Aumentar el límite de la columna central (por defecto es 750px)
+  .center {
+    max-width: 1100px !important; // Expande el texto/imágenes hacia la derecha
+    width: 100% !important;
+  }
 }
