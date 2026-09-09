@@ -7,7 +7,7 @@ configuration:
   analytics:
     provider: plausible
   locale: en-US
-  baseUrl: MoonsterG.github.io/LustHall
+  baseUrl: fatassmango.lol
   ignorePatterns:
     - private
     - templates
