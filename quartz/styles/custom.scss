@@ -30,17 +30,23 @@
   }
 }
 
-// Expandir el contenedor central en la plantilla full-width
-.page[data-frame="full-width"] {
-  #quartz-body {
-    grid-template-columns: 280px minmax(0, 1fr) !important;
-  }
-  
-  .center {
-    max-width: 100% !important;
-  }
+// Quitar límites de ancho al contenedor principal y expandir el layout
+#quartz-body {
+  grid-template-columns: 280px 1fr !important; // Columna izquierda fija, el resto toma todo el ancho
+  max-width: 100% !important;
+  width: 100% !important;
+  margin: 0 !important;
 }
 
-article {
+// Forzar al contenido central a tomar todo el ancho disponible
+.center {
   max-width: 100% !important;
+  width: 100% !important;
+  padding-right: 2rem !important; // Margen interno de seguridad a la derecha
+}
+
+// Asegurar que el cuerpo del artículo o los párrafos no se queden acotados
+article, .page-header {
+  max-width: 100% !important;
+  width: 100% !important;
 }
