@@ -1,10 +1,6 @@
 @use "./variables.scss" as *;
 
-// Redefinir variables globales de ancho
-:root {
-  --page-width: 100% !important;
-  --article-width: 100% !important;
-}
+// put your custom CSS here!
 
 // Forzar texto blanco brillante solo en modo oscuro
 [saved-theme="dark"] {
@@ -31,28 +27,5 @@
     border-left: 2px solid var(--lightgray);
     padding-left: 0.8rem !important;
     margin-left: 0.4rem !important;
-  }
-}
-
-// Maquetación del layout: Explorer a la izquierda + Contenido extendido a la derecha
-.page {
-  max-width: 100% !important;
-  width: 100% !important;
-
-  #quartz-body {
-    display: grid !important;
-    grid-template-columns: 320px minmax(0, 1fr) !important;
-    gap: 2rem !important;
-    max-width: 100% !important;
-    width: 100% !important;
-    margin: 0 !important;
-    padding: 0 2rem !important;
-  }
-
-  .center,
-  article,
-  .page-header {
-    max-width: 100% !important;
-    width: 100% !important;
   }
 }
