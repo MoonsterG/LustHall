@@ -30,27 +30,25 @@
   }
 }
 
-// Ajustar solo la columna central de contenido
-.page {
-  // Aumentar el límite de la columna central (por defecto es 750px)
-  .center {
-    max-width: 1100px !important; // Expande el texto/imágenes hacia la derecha
-    width: 100% !important;
-  }
+// Redefinir variables globales del layout de Quartz
+:root {
+  --pageWidth: 100% !important;
 }
 
-// Quitar restricciones de ancho global
-.page {
-  max-width: 95vw !important; // Usa casi todo el ancho de la pantalla del navegador
-}
-
-// Expansión completa de la columna central
-.center {
-  max-width: 100% !important;
+// Modificar el grid principal
+.page > .center {
+  max-width: none !important;
   width: 100% !important;
+  flex-grow: 1 !important;
 }
 
-// Permitir que el texto y las imágenes usen todo el ancho liberado
+// Eliminar el espacio reservado para la columna derecha derecha si no existe contenido
+.page > .right {
+  display: none !important;
+}
+
+// Permitir que el texto ocupe todo el espacio desbloqueado
 article {
   max-width: 100% !important;
+  width: 100% !important;
 }
