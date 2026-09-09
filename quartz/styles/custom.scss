@@ -29,3 +29,16 @@
     margin-left: 0.4rem !important;
   }
 }
+
+// Expandir el ancho del contenido central y contenedores principales
+:root {
+  --pageWidth: 1000px; // Por defecto es 750px, 1000px o 1100px expande el margen derecho bastante bien
+}
+
+.page {
+  max-width: 1200px !important; // Expande el límite global de la página
+}
+
+article {
+  max-width: 100% !important; // Permite al texto e imágenes ocupar todo el ancho disponible del contenedor
+}
