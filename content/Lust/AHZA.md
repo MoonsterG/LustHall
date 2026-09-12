@@ -84,8 +84,8 @@ Una de las puertas traseras a los bastidores se abria ingresando algunas criatur
 "Ya deben saber que arnolo sabe todo lo que ocurre en sus establecimientos... que tal si ya empiezas tu turno eilis, yo ayudo a niyu a prepararse esta noche" Se dirigia alaion a eilis con un tono más suave y confortante
 "Owww bien... no vayas a golpear a otro o me enojare mucho niyuu hump-.." Respondia eilis dandole dos palmadas a niyu en su espalda mientras se retiraba a comenzar su turno
 "Ehh.. estoo... si son malas noticias solo dimelo esto se siente raro" Respondia niyu algo incomodo en la presencia autoritaria de alaion y una mala noticia
-"Nada de eso solo habra algunos cambios, vamos sigueme" Alaion respondia girandose y  haciendo seña a niyu que lo siga
-"Arnolo no esta enojado conmigo? Que cambios te refieres?" Preguntaba niyu siguiendo a alion hacia un segundo piso mientras subian unas escaleras
+"Nada de eso solo habra algunos cambios, vamos sigueme" Alaion respondia girandose y haciendo seña a niyu que lo siga
+"Arnolo no esta enojado conmigo? Que cambios te refieres?" Preguntaba niyu siguiendo a alion hacia un segundo piso mientras subian por las escaleras
 "No sabria responder pero si se enojo.. no creo que contigo talvez porque perdio a un miembro prestigioso, respecto a los cambios quiero que uses algo mejor, mucho mas revelador y provocativo" respondia alaion a las preguntas de niyu ya estando en el segundo piso entrando en un cuarto privado del staff
 "Okay... crei que mis atuendos ya eran provocadores tambien" Respondia niyu algo más tranquilo pero confuso
 "Si pero.... hmm es como para subir el "nivel", para que estes preparado y atraiga más clientes que quieran soltarlo todo" Respondia alaion mientras buscaba en un armario dentro de un paquete algo
@@ -115,13 +115,52 @@ El ambiente era de un rosa algo oscuro, la musica era sensual para mantener ese 
 "Bienvenido a la zona vip, esta sera tu zona por ahora y espero mucjo de ti aqui... que te parece?" Decia alaion inclinandose hacia niyu apreciandolo de arriba y abajo una ultima vez
 "Es... g-genial no se q-que decir..." Respondia niyu observando su alrededor aun nervioso y algo timido por su atuendo
 "No tienes que decirlo cariño.. no eres el unico aqui que tiene el culo al aire, conociendote se que te ira bien" Respondia alaion para calmar un poco los nervios de niyu
-"Hehe bien bien, gracias por esto... que era lo otro que querias decirme?" Repondia niyu dirigiendose a mirara a alaion
+"Hehe bien bien, gracias por esto... que era lo otro que querias decirme?" Repondia niyu dirigiendose a mirar a alaion
 "Si eso... no te molestes ni nada, pero me lo dijo wendel.. aaammm nnecesito que te lleves a la cama a uno esta noche..... porfis?" Respondia alaion a la pregunta de niyu sin verlo a los ojos nervioso por su reacción 
 "...." Niyu cambiaba por un momento su expresión más seria
 "Por que?" Preguntaba niyu
-"No me lo dijo.. pero me imagino que ya tu tienes ideas de porque, antes de ese último problema mantenias algo hostil con los clientes asi que.... supongo que es tu oportunidad de compensarlo" Repondia alaion volviendose a levantar y arreglando su atuendo
+"No me lo dijo.. pero me imagino que ya tu tienes ideas de porque, antes de ese último problema mantenias algo hostil con los clientes asi que.... supongo que es tu oportunidad de compensarlo, o almenos asi lo quiere arnolo" Repondia alaion volviendose a levantar y arreglando su atuendo
 "Entiendo... perdon si soy un problema para ti" Respondia niyu en voz baja cabizbajo pensando al respecto
 "No pienso eso de ti, tampoco deberias pensar asi... animate, el pasado se queda atras asi que... mucha suerte chica~" respondia alaion para luego girar y retirarse del lugar
+
+Niyu tomaba un pequeño respiro tratando de relajarse poniendo en marcha su turno, el ambiente de esta zona era mas calida y cerrada. Se sentia un agradable aroma como a fresa suave en el ambiente sin mencionar del olor a cigarros, niyu iba camino hacia la barra mientras veia a sus alrededores, no porque no conociera donde estaba sino para saber por quien empezar, como un depredor buscando su presa. Llegaba a la barra tomando asiento llamando a uno de los baristas
+
+"Digame que desea ordenar esta noche" Decia uno de los baristas que se acercaba a niyu preparado para atenderlo
+"Dame 3 shots de blasveral con aliento de dragon y algunas mentas rosaceas" Respondia niyu girandose hacia el barista luego de visualizar el panorma
+"Los desea con elixir de 100 lunas rojas?" Preguntaba el barista
+"Ohh wow no sabia que servian de esas aca..." Respondia niyu algo sorprendido
+"Tiene sus privilegios este nivel, ademas te servira para calmar esos nervios" barista
+"Mierda... se nota tanto?" Preguntaba niyu algo apenado
+"Es mas comun cuando alguien nuevo llega aca, los de sea en sus 3 tragos?" barista
+"Porfavor y subelos a mi cuenta" niyu
+"Descuida todo esta cubierto para ti" Respondia el barista empezando a servir los tragos
+"Puta madre... ni me lo menciones" contestaba niyu un poco molesto pensando en lo anterior que le habia comentado alaion
+"Y todo por golpear un idiota"
+
+No pasaba mucho para que llegaran los tragos, niyu tomaba uno pasando por el otro enseguida hasta terminarlos, hay que mencionar que un shot de blasveral con aliento de dragon no es muy fuerte que digamos, sirve mas para calentar el cuerpo con buen animo y sin llegar a estar ebrio. El elixir de 100 lunas es un suplemento hormonal que aumenta el deseo sexual de una criatura por almenos unas 2 horas, los pone como algo salvajes si se toma en exceso, tomar tres tragos con este elixir te deja con gran deseo por casi 6 horas. 
+Dejando ya todo claro con lo consumido, niyu terminaba sus mentas para luego levantarse ya en un mejor estado en direccion hacia un gran lobo, ya llevaba un buen tiempo que no apartaba su mirada hacia niyu desde que llego, ya habian rozados miradas asi que niyu iba hacia el sin apartar su vista con la de el.
+
+"Heeyyy~ te importa si te hago un poco de compañia?~" Decia niyu con un tono suave y seductor apoyandose en el sillon a un lado de donde se encontraba sentado  el lobo
+"No me importa~ te estaba esperando toda la noche lindura~" Respondia el lobo tirando su cigarro invitandolo a que se sentara a su lado sin dejar de apreciar su cuerpo con su vista
+"de verdad?~ no creo que yo sea el primero al que le dices eso cariño~" Contestaba niyu mientras pasaba por delante del lobo pasando su cola por encima de sus piernas para luego sentarse al lado cerca de el
+"Talvez~ pero estas justo donde te quiero~" Decia el lobo pasando su brazo por detras de niyu acariciando su hombro y brazo de manera suave
+
+-//-//-//-//-//-//-//-//-//-//-//-//-//-//-//-//-//-//-//-//-
+
+Niyu solto una pequeña risa , bajando la mirada un segundo solo para volver a fijarla en el con una chispa de desafio. Con total calma, puso uno de sus dedos para trazar una linea imaginaria por la solapa del traje del lobo, obligandolo a prestar atencion a cada uno de sus movimientos.
+​"Tienes mucha confianza para estar en un lugar con tantas miradas encima cariño," insinuo Niyu en un susurro que apenas compitió con el ruido de fondo. "Presumir de dominio aqui es facil... pero las mejores cartas no se juegan frente a un publico."
+​El lobo alzo una ceja, disfrutando del reto. Arqueo la espalda para acortar aun mas la distancia, dejando que su aliento rozara el cuello de Niyu. "No me digas que te distrae la audiencia pequeño tigre. Pense que te gustaba ser el centro de atencion."
+​"Me gusta ser la ***unica*** atencion~," corrigio Niyu sin titubear, dejando que su cola se deslizara suavemente hacia arriba por la espalda del lobo hasta enredarse en su cuello, como una correa invisible que tiraba con delicadeza hacia el. "Y aqui afuera hay demasiado ruido para la conversación que realmente quiero tener contigo~."
+​El lobo contuvo una sonrisa, sintiendo cómo el control de la escena se le escapaba de las manos exactamente de la forma en que quería que sucediera. Su agarre en el hombro de Niyu se volvió un poco más firme, una silenciosa rendicion vestida de elegancia.
+​"Un territorio mas cerrado, entonces," murmuro el lobo. "Donde las reglas las pongas tú."
+​Niyu se inclino apenas unos milimetros hacia su oreja, asegurandose de que la ultima pincelada fuera inevitable. "Solo si crees que puedes seguirme el ritmo sin las luces encendidas~"
+​Sin esperar respuesta, Niyu se puso de pie con calma, dejando que la punta de su cola rozara las piernas del lobo una última vez como una invitación directa, caminando a paso lento hacia el pasillo privado sin mirar atras, sabiendo perfectamente que el lobo ya se estaba levantando del sillon para seguirlo.
+
+
+
+
+
+
 
 
 
